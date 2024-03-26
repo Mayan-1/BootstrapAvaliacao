@@ -1,0 +1,148 @@
+.btn-register {
+  border: none;
+  border-radius: 6px;
+  background-color: #4caf4f;
+  color: #fff;
+  padding: 9px 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-header,
+.helping,
+.maecenas {
+  background-color: #f5f7fa;
+}
+
+.header-title,
+.learns-more-title,
+.helping-title {
+  font-size: 50px;
+  color: #4d4d4d;
+}
+
+.header-subtitle,
+.helping-subtitle {
+  font-size: 50px;
+  color: #4caf4f;
+}
+
+.container-ourClients-text,
+.container-caring-text {
+  color: #4d4d4d;
+}
+
+.card-text h5 {
+  color: #4d4d4d;
+  font-weight: bold;
+}
+
+.card-text img,
+.card-text p {
+  padding: 15px 0;
+}
+
+.card-style {
+  border-radius: 9px;
+  padding: 9px 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.learn-more-container p {
+  padding: 15px 0;
+}
+
+.icon-helping {
+  font-size: 45px;
+}
+
+.maecenas h4,
+.maecenas h5 {
+  color: #4caf4f;
+}
+
+.image-card {
+  margin: 0 5rem 5rem 3rem;
+}
+
+.image-card h4 {
+  color: #4caf4f;
+  text-align: center;
+}
+
+.image-card p {
+  text-align: center;
+  color: #4d4d4d;
+  font-weight: bold;
+}
+
+.pallentesque {
+  margin-top: 9rem;
+  padding: 5rem;
+  background-color: #f5f7fa;
+}
+
+.pallentesque h2 {
+  font-weight: bold;
+  font-size: 70px;
+  color: #263238;
+}
+
+.footer {
+  background-color: #263238;
+}
+
+.container-logo-footer {
+  padding: 70px;
+  margin-left: 150px;
+}
+
+.logo-footer {
+  margin-bottom: 30px;
+}
+
+.container-logo-footer p {
+  line-height: 1.5;
+  color: #fff;
+}
+
+.container-logo-footer svg {
+  margin-right: 15px;
+}
+
+.container-company-footer {
+  padding-top: 70px;
+}
+
+.company-title {
+  margin-bottom: 20px;
+}
+
+footer h4 {
+  color: #fff;
+}
+
+.container-support-footer {
+  padding-top: 70px;
+}
+
+.support-title {
+  margin-bottom: 20px;
+}
+
+.link-footer {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container-stayup-footer {
+  margin-right: 30px;
+  padding-top: 70px;
+}
+
+.stayup-title {
+  margin-bottom: 20px;
+}
+
+.input-email {
+  background-color: grey;
+}
